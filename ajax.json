@@ -1,0 +1,88 @@
+
+
+[
+
+    {
+        "Serial_no": "1101",
+        "name": "sugar",
+        "Quantity":"1kg",
+        "unit":"kg",
+        "department":"grocery",
+        "notes": "white sugar only"
+    },
+    {
+        "Serial_no": "1102",
+        "name": "chilly",
+        "Quantity":"1kg",
+        "unit":"cc",
+        "department":"vegetable",
+        "notes": "green variety"
+    },
+    {
+        "Serial_no": "1103",
+        "name": "paste",
+        "Quantity":"1kg",
+        "unit":"gm",
+        "department":"consumer",
+        "notes": "pepsodent"
+    },
+
+    {
+        "Serial_no": "1104",
+        "name": "pastry",
+        "Quantity":"1kg",
+        "unit":"cc",
+        "department":"consumer",
+        "notes": "blackforest"
+    },
+    {
+        "Serial_no": "1105",
+        "name": "toothpick",
+        "Quantity":"11",
+        "unit":"cc",
+        "department":"consumer",
+        "notes": "aa"
+    },
+    {
+        "Serial_no": "1101",
+        "name": "sugar",
+        "Quantity":"1kg",
+        "unit":"kg",
+        "department":"grocery",
+        "notes": "white sugar only"
+    },
+    {
+        "Serial_no": "1102",
+        "name": "chilly",
+        "Quantity":"1kg",
+        "unit":"cc",
+        "department":"vegetable",
+        "notes": "green variety"
+    },
+    {
+        "Serial_no": "1103",
+        "name": "paste",
+        "Quantity":"1kg",
+        "unit":"gm",
+        "department":"consumer",
+        "notes": "pepsodent"
+    },
+
+    {
+        "Serial_no": "1104",
+        "name": "pastry",
+        "Quantity":"1kg",
+        "unit":"cc",
+        "department":"consumer",
+        "notes": "blackforest"
+    },
+    {
+        "Serial_no": "1105",
+        "name": "toothpick",
+        "Quantity":"11",
+        "unit":"cc",
+        "department":"consumer",
+        "notes": "aa"
+    }
+]
+
